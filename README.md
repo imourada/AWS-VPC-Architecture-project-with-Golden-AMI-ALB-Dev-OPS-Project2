@@ -1,11 +1,11 @@
 # Deploy Scalable VPC Architecture on AWS Cloud
 
 ## TABLE OF CONTENTS
-1. [Goal](https://github.com/DevCloudNinjas/DevOps-Projects/blob/master/project-02-aws-vpc-architecture/README.md#goal)
-2. [Pre-Requisites](https://github.com/DevCloudNinjas/DevOps-Projects/blob/master/project-02-aws-vpc-architecture/README.md#pre-requisites)
-3. [Pre-Deployment](https://github.com/DevCloudNinjas/DevOps-Projects/blob/master/project-02-aws-vpc-architecture/README.md#pre-deployment)
-4. [VPC Deployment](https://github.com/DevCloudNinjas/DevOps-Projects/blob/master/project-02-aws-vpc-architecture/README.md#vpc-deployment)
-5. [Validation](https://github.com/DevCloudNinjas/DevOps-Projects/blob/master/project-02-aws-vpc-architecture/README.md#validation)
+1. [Goal.
+2. [Pre-Requisites]
+3. [Pre-Deployment.
+4. [VPC Deployment].
+5. [Validation].
 
 ## Goal
 Deploy a Modular and Scalable Virtual Network Architecture with Amazon VPC.
@@ -18,7 +18,7 @@ This project architecture has been updated to model 2026 best practices for Clou
 
 ## Pre-Requisites
 1. You must be having an [AWS account](https://aws.amazon.com/) to create infrastructure resources on AWS cloud.
-2. [Source Code](https://github.com/DevCloudNinjas/DevOps-Projects/blob/master/project-02-aws-vpc-architecture/html-web-app)
+2. 
 
 ## Pre-Deployment
 Customize the application dependencies mentioned below on AWS EC2 instance and create the Golden AMI.
