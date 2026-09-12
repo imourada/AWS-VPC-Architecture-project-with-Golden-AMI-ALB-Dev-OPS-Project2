@@ -61,6 +61,4 @@ Customize the application dependencies mentioned below on AWS EC2 instance and c
 ## Hit the Star! ⭐
 ***If you are planning to use this repository for learning, please hit the star. Thanks!***
 
-## Author
-[DevCloud Ninjas](https://github.com/DevCloudNinjas)
-# DevOps-Projects-project-02-aws-vpc-architecture
+
